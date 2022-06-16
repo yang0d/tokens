@@ -1,0 +1,11 @@
+{  
+  "name": "PandaDao NFT", 
+  "website": "https://thewaltdisneycompany.com/", 
+  "description": "A unique set of magical panda NFTs with 6 characters, each with their own story ", 
+  "explorer": "https://www.bscscan.com/address/0xA395Ad7Ef26c377A7161216103aA2e8c6984e608", 
+  "type": "ERC721", 
+  "symbol": "PandaDao NFT", 
+  "decimals": 18, 
+  "status": "active", 
+  "id": "0xA395Ad7Ef26c377A7161216103aA2e8c6984e608" 
+  } 
